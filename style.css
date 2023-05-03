@@ -115,6 +115,10 @@ main {
 
 /* Profile detail section */
 
+hr {
+    opacity: 0.2;
+}
+
 /* Profile social detail section */
 .profile-social {
     display: flex;
